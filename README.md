@@ -1,6 +1,6 @@
 
-<h1>🖥️ Desafio da criação de uma land-page basica</h1>
-<p>Neste desafio foi criado um land-page apartir de um projeto no figma.</p>
+<h1>🖥️ Desafio da criação de uma página basica</h1>
+<p>Neste desafio foi criado uma página apartir de um layout no figma, feito no curso Explorer da Rocketseat.</p>
 <br>
 <h1>🚀Tecnologias</h1>
 - HTML <br>
